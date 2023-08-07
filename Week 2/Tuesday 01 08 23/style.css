@@ -1,0 +1,10 @@
+body {
+    /*Set background*/
+    background-image: url(https://images.wallpaperscraft.com/image/single/bubbles_colorful_bright_83512_1024x600.jpg);
+    /*Fix the picture so it is always in the background*/
+    background-attachment: fixed;   
+    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
+        background-repeat: no-repeat;
+}
