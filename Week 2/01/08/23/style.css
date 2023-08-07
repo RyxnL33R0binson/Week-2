@@ -1,0 +1,6 @@
+body {
+    /*Set background*/
+    background: url(../../../../../../../Downloads/bubble\ wallpaper.jpg);
+    /*Fix the picture so it is always in the background*/
+    background-attachment: fixed;    
+}
